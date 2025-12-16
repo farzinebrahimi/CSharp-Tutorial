@@ -10,7 +10,6 @@ Console.WriteLine("Please enter your age:");
 int age = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine($"Your name is {name} {lastName} and your age is {age}");
-Console.WriteLine("Your name is" + name + " " + lastName +  " " + "and your age is" + " " + age);
 
 
 
