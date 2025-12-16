@@ -1,0 +1,15 @@
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\bin\Debug\net10.0\Vira-Tutorial.exe
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\bin\Debug\net10.0\Vira-Tutorial.deps.json
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\bin\Debug\net10.0\Vira-Tutorial.runtimeconfig.json
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\bin\Debug\net10.0\Vira-Tutorial.dll
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\bin\Debug\net10.0\Vira-Tutorial.pdb
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\obj\Debug\net10.0\Vira-Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\obj\Debug\net10.0\Vira-Tutorial.AssemblyInfoInputs.cache
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\obj\Debug\net10.0\Vira-Tutorial.AssemblyInfo.cs
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\obj\Debug\net10.0\Vira-Tutorial.csproj.CoreCompileInputs.cache
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\obj\Debug\net10.0\Vira-Tutorial.sourcelink.json
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\obj\Debug\net10.0\Vira-Tutorial.dll
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\obj\Debug\net10.0\refint\Vira-Tutorial.dll
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\obj\Debug\net10.0\Vira-Tutorial.pdb
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\obj\Debug\net10.0\Vira-Tutorial.genruntimeconfig.cache
+D:\دوره C# ویرا\CSharp-Tutorial\Vira-Tutorial\Vira-Tutorial\obj\Debug\net10.0\ref\Vira-Tutorial.dll
