@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vira-Tutorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a935d49eff172864f89d3c824c67ddb02a96161e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86856cffb44c789d3594015045b986754da49a69")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vira-Tutorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vira-Tutorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
