@@ -74,17 +74,95 @@
 //
 // #endregion
 
-#region Session3
+// #region Session3
+//
+// int a = 0;
+// int b = 0;
+// Console.WriteLine("Please enter two numbers:");
+// a = Convert.ToInt32(Console.ReadLine());
+// b = Convert.ToInt32(Console.ReadLine());
+// int sum = 0;
+// sum = a + b;
+//
+// Console.Write($"The sum is : {sum}");
+//
+//
+// #endregion
 
-int a = 0;
-int b = 0;
-Console.WriteLine("Please enter two numbers:");
-a = Convert.ToInt32(Console.ReadLine());
-b = Convert.ToInt32(Console.ReadLine());
-int sum = 0;
-sum = a + b;
+// #region Session4
+//
+// const float maxHealth = 100;
+// float currentHealth = 0;
+// currentHealth = maxHealth;
+//
+// bool isAlive = true;
+//
+// float dmg = Convert.ToSingle(Console.ReadLine());
+//
+// while (isAlive)
+// {
+//     
+// }
+// float TakeDamage(float amount)
+// {
+//
+//     currentHealth -= amount;
+//     if (currentHealth <= 0)
+//     {
+//         Die();
+//     }
+//     isAlive = true;
+//     return currentHealth;
+// }
+//
+// void Die()
+// {
+//     currentHealth = 0;
+//     Console.WriteLine("Player is dead");
+//     isAlive = false;
+// }
+//
+//
+//
+//
+//
+// Console.WriteLine($"You have {TakeDamage(dmg)} health left");
+//
+//
+//
+// #endregion
 
-Console.Write($"The sum is : {sum}");
+
+// int sum = 0;
+//
+// int Test(int a, int b)
+// {
+//     return a + b;
+// }
+//
+// int Test3(int a, int b)
+// {
+//     return a - b;
+// }
+//
+// void Test1(int a, int b)
+// {
+//     
+//     var avg = a + b;
+//     Console.WriteLine(avg);
+// }
+
+// Test1(Test(19,8), Test3(19, 8));
 
 
-#endregion
+void Welcome(string name)
+{
+    Console.WriteLine(name);
+}
+void Welcome(string name, int age)
+{
+    Console.WriteLine(name, age);
+}
+
+Welcome("AmirReza");
+Welcome("AmirReza", 18);
